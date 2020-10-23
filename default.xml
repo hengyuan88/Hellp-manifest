@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="origin"
+           fetch="https://github.com/hengyuan88/" />
+  <default revision="master"
+           remote="origin" />
+
+  <project path="src/Hello-project-shell" name="Hello-project-shell" />
+  <project path="src/Hello-project-c" name="Hello-project-c" />
+
+</manifest>
