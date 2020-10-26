@@ -6,7 +6,7 @@
   <default revision="refs/heads/master"
            remote="origin" />
 
-  <project path="src/Hello-project-shell" name="Hello-project-shell" />
-  <project path="src/Hello-project-c" name="Hello-project-c" />
+  <project path="src/Hello-project-shell"  remote="origin" name="Hello-project-shell" />
+  <project path="src/Hello-project-c"  remote="origin" name="Hello-project-c" />
 
 </manifest>
