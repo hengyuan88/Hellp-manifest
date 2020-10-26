@@ -3,7 +3,7 @@
 
   <remote  name="origin"
            fetch="https://github.com/hengyuan88/" />
-  <default revision="master"
+  <default revision="refs/heads/master"
            remote="origin" />
 
   <project path="src/Hello-project-shell" name="Hello-project-shell" />
