@@ -2,11 +2,12 @@
 <manifest>
 
   <remote  name="origin"
-           fetch="https://github.com/hengyuan88/" />
+           fetch="ssh://github.com/hengyuan88/" />
+
   <default revision="master"
            remote="origin" />
 
-  <project path="src/Hello-project-shell"  remote="origin" name="Hello-project-shell" />
-  <project path="src/Hello-project-c"  remote="origin" name="Hello-project-c" />
+  <project name="Hello-project-shell" remote="origin" path="src/Hello-project-shell"  />
+  <project name="Hello-project-c" remote="origin" path="src/Hello-project-c"  />
 
 </manifest>
