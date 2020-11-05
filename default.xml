@@ -4,7 +4,7 @@
   <remote  name="origin"
            fetch="ssh://github.com/hengyuan88/" />
 
-  <default revision="master"
+  <default revision="refs/heads/master"
            remote="origin" />
 
   <project name="Hello-project-shell" remote="origin" path="src/Hello-project-shell"  />
